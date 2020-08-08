@@ -48,7 +48,6 @@
 
 ## How to Explore this Work
 
-* Read the code in the [Jupyter notebooks](https://nbviewer.jupyter.org/github/InPhyT/DataMiningChallange/blob/master/Notebooks/notebook.ipynb).
 * Run the code in the [Kaggle notebook](https://www.kaggle.com/inphyt2020/dataminingchallange).
 
 ## Overview 
