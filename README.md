@@ -19,12 +19,12 @@
 
 <!-- Title -->
 <h1 align="center">
-  Data Mining Challange
+  Reddit Gender Text-Classification
 </h1>
 
 <!-- Subtitle -->
 <h3 align="center">
-  Reddit Gender Text-Classification
+  Data Mining Challange
 </h3>
 
 <!-- Badges -->
