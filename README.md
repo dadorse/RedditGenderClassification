@@ -22,11 +22,6 @@
   Reddit Gender Text-Classification
 </h1>
 
-<!-- Subtitle -->
-<h3 align="center">
-  Data Mining Challange
-</h3>
-
 <!-- Badges -->
 </p>
 
