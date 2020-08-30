@@ -40,6 +40,7 @@
 
 ## How to Explore this Work
 
+* [Kaggle Competition](https://www.kaggle.com/c/datamining2020/leaderboard)
 * Run the code in the [Kaggle notebook](https://www.kaggle.com/inphyt2020/dataminingchallange).
 
 ## Overview 
